@@ -1,14 +1,14 @@
 # Hi there, I'm Shriwayanta Maiti 👋
 
-I'm a B.Tech CSE student at DY Patil International University, Akurdi, Pune, graduating in 2028[cite: 10, 27]. I am a passionate and driven student with a strong interest in technology, problem-solving, and innovation
+I'm a B.Tech CSE student at DY Patil International University, Akurdi, Pune, graduating in 2028. I am a passionate and driven student with a strong interest in technology, problem-solving, and innovation
 
-My primary focus is on building a strong foundation in programming, data structures, and software development[cite: 19]. I am particularly enthusiastic about exploring the fields of:
+My primary focus is on building a strong foundation in programming, data structures, and software development. I am particularly enthusiastic about exploring the fields of:
 
 * **Artificial Intelligence** 
 * **Cybersecurity** 
 * **Web Development** 
 
-I believe in a "learning by doing" approach and enjoy working on projects, internships, and collaborations that solve real-world problems[cite: 23]. I am also open to connecting with fellow learners, mentors, and professionals to share ideas and grow together
+I believe in a "learning by doing" approach and enjoy working on projects, internships, and collaborations that solve real-world problems. I am also open to connecting with fellow learners, mentors, and professionals to share ideas and grow together
 
 ---
 
