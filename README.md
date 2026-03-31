@@ -36,9 +36,8 @@ Im a B.Tech CSE student at DY Patil International University, Akurdi, Pune, grad
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrithisside&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
 ##
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!---## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shrithisside&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=4)
 
