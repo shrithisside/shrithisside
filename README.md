@@ -1,6 +1,4 @@
-# Hi there 👋
-
-* 👂 My name is: **Shriwayanta Maiti** 
+# Hi there 👋, I'm **Shriwayanta Maiti**
 
 * 🙎‍♂️ Pronouns: He/Him
 
