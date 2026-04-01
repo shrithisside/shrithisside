@@ -1,4 +1,13 @@
-# Hi there 👋, I'm **Shriwayanta Maiti**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=435&height=50&lines=Hi+there+%F0%9F%91%8B%2C+i+am" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=50&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=800&height=80&lines=SHRIWAYANTA" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=50&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=800&height=80&lines=MAITI" alt="Typing SVG" />
+  <br/>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=100&lines=B.Tech+CSE+Student;AI+Enthusiast;Full+Stack+Developer;Learning+by+Doing" alt="Typing SVG" />
 </div>
