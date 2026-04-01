@@ -1,10 +1,9 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=435&height=50&lines=Hi+there+%F0%9F%91%8B%2C+i+am" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=50&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=800&height=80&lines=SHRIWAYANTA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=50&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=800&height=80&lines=SHRIWAYANTA" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=50&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=800&height=80&lines=MAITI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=50&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=800&height=80&lines=MAITI" alt="Typing SVG" />
   <br/>
 </div>
 
