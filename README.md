@@ -36,10 +36,10 @@ Im a B.Tech CSE student at DY Patil International University, Akurdi, Pune, grad
 
 ##
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrithisside&theme=dracula" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrithisside&theme=dracula&cache=1" alt="Most Used Languages" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrithisside&theme=dracula" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrithisside&theme=dracula&cache=1" alt="Profile Details" />
 </div>
 
 ##
@@ -47,7 +47,7 @@ Im a B.Tech CSE student at DY Patil International University, Akurdi, Pune, grad
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrithisside&radius=16&theme=dracula&area=true&order=5&v=1" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrithisside&radius=16&theme=dracula&cache=1&area=true&order=5&v=1" height="300" alt="activity-graph graph"  />
 </div>
 
 ##
